@@ -4,6 +4,6 @@ object RunCounter {
   }
 
   def main(args: Array[String]) {
-    println(wordsCount("hello my name is ravi").toString())
+    wordsCount("hello my name is ravi")
   }
 }
